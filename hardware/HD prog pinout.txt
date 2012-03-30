@@ -1,0 +1,17 @@
+Serial Connector on left
+
+1  - serial pin 7
+2  - serial pin 3
+3  - serial pin 8
+4  - serial pin 2
+
+5  - 
+6  - 
+7  - 
+8  - 
+
+9  - 
+10 - ecm pin 1 - dc pin 2 - cable orange - gnd
+11 - ecm pin 9 - dc pin 4 - cable ?????? - 12V
+12 - ecm pin 5 - dc pin 1 - cable yellow - data link (n/c)?
+13 - ecm pin 7 - dc pin 3 - cable blue   - serial data
